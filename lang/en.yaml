@@ -1,0 +1,4 @@
+weather_success_response: '%s: %s; %d° F (feels like %d° F); winds %s'
+weather_suggestion_response: |+
+  Wunderground found a few possibilities; try one of the following instead:
+  %s
