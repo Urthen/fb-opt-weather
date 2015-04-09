@@ -1,5 +1,5 @@
 # fb-opt-weather
 
-Author: Michael Pratt
+[Fritbot](https://github.com/Urthen/fritbot) Weather Module
 
-A lovely Fritbot module.
+Returns current weather at specified location from Wunderground's API.
